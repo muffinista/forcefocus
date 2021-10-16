@@ -32,6 +32,7 @@
     "jsdoc-to-markdown": "^7.1.0"
   },
   "dependencies": {
-    "bindings": "^1.5.0"
+    "bindings": "^1.5.0",
+    "node-gyp": "^8.2.0"
   }
 }
