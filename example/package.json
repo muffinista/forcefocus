@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "forcefocus": "..",
-    "electron": "^14.0",
+    "electron": "^35.7",
     "electron-rebuild": "^3.2.3"
   }
 }
